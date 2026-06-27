@@ -6,4 +6,11 @@ Web Apps: Designing and building responsive websites using tools like React JS, 
 System Maintenance: Keeping servers running smoothly and thoroughly testing code to ensure everything works perfectly.  
 
 **Learning Journey**
-I’m always eager to learn! Backed by certifications in network security, I'm continuously focused on improving my skills in web technologies, hardware integration, and cybersecurity.  📫 Let's Connect  I'm always open to collaborations or a friendly chat!Email: coldoverorhainehdart@gmail.com  LinkedIn: linkedin.com/in/rhaine-coldovero  Portfolio: rhaine-portfolio.vercel.app
+I’m always eager to learn! Backed by certifications in network security, I'm continuously focused on improving my skills in web technologies, hardware integration, and cybersecurity.
+
+**Let's Connect**  
+I'm always open to collaborations or a friendly chat!
+
+Email: coldoverorhainehdart@gmail.com  
+LinkedIn: linkedin.com/in/rhaine-coldovero  
+Portfolio: rhaine-portfolio.vercel.app
